@@ -33,7 +33,7 @@ Note: Use ctrl+shift+v to preview MD files in VS Code
 9. `git commit -m "message"`
    Saves the staged changes with a commit message.
 
-10. ** Add a remote location for a repo**
+10. **Add a remote location for a repo**
     `git remote add origin <link to repo>`
 
 11. `git push`
