@@ -38,3 +38,6 @@ Note: Use ctrl+shift+v to preview MD files in VS Code
 
 11. `git push`
     Sends local commits to the remote repository
+
+12. `git pull`
+    Fetches **and merges** changes from the remote repository into your local one.
