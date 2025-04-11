@@ -47,7 +47,7 @@ Note: Use ctrl+shift+v to preview MD files in VS Code
 
 14. `git merge`
     Merges changes from one branch into another.
-
+    -To merge branches, switch to the branch you want to merge into (using `git checkout`), then use `git merge <branch_merge_from>`
 15. `git branch <branch_name>`
     Create a new branch
 
