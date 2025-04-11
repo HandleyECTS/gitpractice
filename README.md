@@ -52,3 +52,4 @@ Note: Use ctrl+shift+v to preview MD files in VS Code
     Create a new branch
 
 16. `git checkout <branch_name>`
+    Switch to a different branch (edits/commits are on this now.)
