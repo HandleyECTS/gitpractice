@@ -50,3 +50,5 @@ Note: Use ctrl+shift+v to preview MD files in VS Code
 
 15. `git branch <branch_name>`
     Create a new branch
+
+16. `git checkout <branch_name>`
